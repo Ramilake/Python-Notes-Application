@@ -1,5 +1,8 @@
-I created a super user
+This is an application that I based off of an YouTube guide for a Python note taking app
+by "Code with Stein", it can be found here:
+https://www.youtube.com/watch?v=trwXaGu-Lys
 
+I created a super user:
 username is 'ramilake'
 email is 'rami_pele@yahoo.com'
 password is '9932734Jamrah'
