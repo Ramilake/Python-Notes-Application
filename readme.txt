@@ -2,6 +2,7 @@ This is an application that I based off of an YouTube guide for a Python note ta
 by "Code with Stein", it can be found here:
 https://www.youtube.com/watch?v=trwXaGu-Lys
 
+
 I created a super user:
 username is 'ramilake'
 email is 'rami_pele@yahoo.com'
@@ -18,7 +19,7 @@ python manage.py migrate
 python manage.py runserver
 
 That will give you the http address and from there the app is running.
-Also, even the changes are saved between uses...
+Also, the database is persistent between uses.
 
 
 Application Complete
